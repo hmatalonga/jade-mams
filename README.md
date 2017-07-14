@@ -29,5 +29,3 @@ Information about parameters of the project can be found in `build.xml`.
 Please notice that *JADE* framework `.jar` file is not included.
 
 If you want to set different *JADE* framework path. Change the line: `<classpath location="jade/lib/jade.jar"/>` in compile target. By default it is set to `jade/lib/jade.jar`.
-
-To add more agents. More info soon.
