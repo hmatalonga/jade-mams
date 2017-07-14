@@ -1,4 +1,4 @@
-#Jade Multi-agent meeting scheduling
+# Jade Multi-agent meeting scheduling
 
 [![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 
